@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://heen.dev/sitemap.xml
