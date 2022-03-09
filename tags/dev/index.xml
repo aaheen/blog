@@ -4,16 +4,20 @@
     <title>dev on Erik Heen</title>
     <link>https://heen.dev/tags/dev/</link>
     <description>Recent content in dev on Erik Heen</description>
+    <image>
+      <url>https://heen.dev/img/selfie.jpg</url>
+      <link>https://heen.dev/img/selfie.jpg</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2022</copyright>
+    <copyright>© 2022 Erik Heen •</copyright>
     <lastBuildDate>Tue, 08 Mar 2022 03:40:24 -0600</lastBuildDate><atom:link href="https://heen.dev/tags/dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>File Path Pain</title>
-      <link>https://heen.dev/posts/2022-03-08-file-path-pain/</link>
+      <link>https://heen.dev/blog/2022-03-08-file-path-pain/</link>
       <pubDate>Tue, 08 Mar 2022 03:40:24 -0600</pubDate>
       
-      <guid>https://heen.dev/posts/2022-03-08-file-path-pain/</guid>
+      <guid>https://heen.dev/blog/2022-03-08-file-path-pain/</guid>
       <description>Hugo doesn&amp;#39;t like &amp;#34;-&amp;#34; in absURL-piped paths.</description>
     </item>
     

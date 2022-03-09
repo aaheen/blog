@@ -4,9 +4,13 @@
     <title>Tags on Erik Heen</title>
     <link>https://heen.dev/tags/</link>
     <description>Recent content in Tags on Erik Heen</description>
+    <image>
+      <url>https://heen.dev/img/selfie.jpg</url>
+      <link>https://heen.dev/img/selfie.jpg</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2022</copyright>
+    <copyright>© 2022 Erik Heen •</copyright>
     <lastBuildDate>Tue, 08 Mar 2022 03:40:24 -0600</lastBuildDate><atom:link href="https://heen.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>bug</title>
@@ -27,29 +31,11 @@
     </item>
     
     <item>
-      <title>cli</title>
-      <link>https://heen.dev/tags/cli/</link>
-      <pubDate>Tue, 08 Mar 2022 02:01:31 -0600</pubDate>
+      <title>hugo</title>
+      <link>https://heen.dev/tags/hugo/</link>
+      <pubDate>Tue, 08 Mar 2022 03:40:24 -0600</pubDate>
       
-      <guid>https://heen.dev/tags/cli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>euler</title>
-      <link>https://heen.dev/tags/euler/</link>
-      <pubDate>Tue, 08 Mar 2022 02:01:31 -0600</pubDate>
-      
-      <guid>https://heen.dev/tags/euler/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>math</title>
-      <link>https://heen.dev/tags/math/</link>
-      <pubDate>Tue, 08 Mar 2022 02:01:31 -0600</pubDate>
-      
-      <guid>https://heen.dev/tags/math/</guid>
+      <guid>https://heen.dev/tags/hugo/</guid>
       <description></description>
     </item>
     
@@ -59,6 +45,51 @@
       <pubDate>Mon, 07 Mar 2022 22:01:53 -0600</pubDate>
       
       <guid>https://heen.dev/tags/misc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cli</title>
+      <link>https://heen.dev/tags/cli/</link>
+      <pubDate>Tue, 01 Mar 2022 09:12:57 -0600</pubDate>
+      
+      <guid>https://heen.dev/tags/cli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>euler</title>
+      <link>https://heen.dev/tags/euler/</link>
+      <pubDate>Tue, 01 Mar 2022 09:12:57 -0600</pubDate>
+      
+      <guid>https://heen.dev/tags/euler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>math</title>
+      <link>https://heen.dev/tags/math/</link>
+      <pubDate>Tue, 01 Mar 2022 09:12:57 -0600</pubDate>
+      
+      <guid>https://heen.dev/tags/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>easy</title>
+      <link>https://heen.dev/tags/easy/</link>
+      <pubDate>Thu, 24 Feb 2022 14:28:09 -0600</pubDate>
+      
+      <guid>https://heen.dev/tags/easy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://heen.dev/tags/go/</link>
+      <pubDate>Thu, 24 Feb 2022 14:28:09 -0600</pubDate>
+      
+      <guid>https://heen.dev/tags/go/</guid>
       <description></description>
     </item>
     

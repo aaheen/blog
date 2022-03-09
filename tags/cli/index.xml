@@ -4,16 +4,20 @@
     <title>cli on Erik Heen</title>
     <link>https://heen.dev/tags/cli/</link>
     <description>Recent content in cli on Erik Heen</description>
+    <image>
+      <url>https://heen.dev/img/selfie.jpg</url>
+      <link>https://heen.dev/img/selfie.jpg</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2022</copyright>
-    <lastBuildDate>Tue, 08 Mar 2022 02:01:31 -0600</lastBuildDate><atom:link href="https://heen.dev/tags/cli/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2022 Erik Heen •</copyright>
+    <lastBuildDate>Tue, 01 Mar 2022 09:12:57 -0600</lastBuildDate><atom:link href="https://heen.dev/tags/cli/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Euler</title>
-      <link>https://heen.dev/projects/euler/</link>
-      <pubDate>Tue, 08 Mar 2022 02:01:31 -0600</pubDate>
+      <link>https://heen.dev/project/euler/</link>
+      <pubDate>Tue, 01 Mar 2022 09:12:57 -0600</pubDate>
       
-      <guid>https://heen.dev/projects/euler/</guid>
+      <guid>https://heen.dev/project/euler/</guid>
       <description>My Project Euler solutions &amp;amp; a CLI to access them.</description>
     </item>
     

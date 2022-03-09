@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>easy on Erik Heen</title>
+    <link>https://heen.dev/tags/easy/</link>
+    <description>Recent content in easy on Erik Heen</description>
+    <image>
+      <url>https://heen.dev/img/selfie.jpg</url>
+      <link>https://heen.dev/img/selfie.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2022 Erik Heen •</copyright>
+    <lastBuildDate>Thu, 24 Feb 2022 14:28:09 -0600</lastBuildDate><atom:link href="https://heen.dev/tags/easy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multiples of 3 or 5</title>
+      <link>https://heen.dev/writeup/euler/1/</link>
+      <pubDate>Thu, 24 Feb 2022 14:28:09 -0600</pubDate>
+      
+      <guid>https://heen.dev/writeup/euler/1/</guid>
+      <description>Difficulty: Easy</description>
+    </item>
+    
+  </channel>
+</rss>

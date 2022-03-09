@@ -4,16 +4,20 @@
     <title>misc on Erik Heen</title>
     <link>https://heen.dev/tags/misc/</link>
     <description>Recent content in misc on Erik Heen</description>
+    <image>
+      <url>https://heen.dev/img/selfie.jpg</url>
+      <link>https://heen.dev/img/selfie.jpg</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2022</copyright>
+    <copyright>© 2022 Erik Heen •</copyright>
     <lastBuildDate>Mon, 07 Mar 2022 22:01:53 -0600</lastBuildDate><atom:link href="https://heen.dev/tags/misc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post Using Hugo</title>
-      <link>https://heen.dev/posts/2022-03-07-first-post-using-hugo/</link>
+      <link>https://heen.dev/blog/2022-03-07-first-post-using-hugo/</link>
       <pubDate>Mon, 07 Mar 2022 22:01:53 -0600</pubDate>
       
-      <guid>https://heen.dev/posts/2022-03-07-first-post-using-hugo/</guid>
+      <guid>https://heen.dev/blog/2022-03-07-first-post-using-hugo/</guid>
       <description>Filler content to test out Hugo with.</description>
     </item>
     
