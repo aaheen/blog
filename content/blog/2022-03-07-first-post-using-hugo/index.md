@@ -11,7 +11,7 @@ cover:
     alt: "SoundXMutation music in a bottle drawing"
     caption: "Starting any new project can be daunting."
     relative: false
-    hidden: false
+    hidden: true
 ---
 
 `Example content to fill the page`

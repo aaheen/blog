@@ -1,20 +1,17 @@
 ---
 title: "Euler"
-date: 2022-03-08T02:01:31-06:00
+date: 2022-03-01T09:12:57-06:00
 author: "Erik Heen"
 tags: ["cli","euler","math"]
 description: "My Project Euler solutions & a CLI to access them." 
 draft: false
 canonicalURL: "https://heen.dev/euler"
 cover:
-    image: "euler.png"
+    image: "/img/euler.png"
     alt: "Portrait of Leonhard Euler"
     caption:
     relative: false
-    hidden: false
-editPost:
-    URL: "https://git.heen.dev/blog"
-    Text: "View Source on GitHub"
+    hidden: true
 ---
 
 Contained in [this GitHub repository](https://euler.heen.dev/) are all of my solutions to Project Euler problems, and a simple CLI to run them. The rest of this post is copied straight from the repo's README.

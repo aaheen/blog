@@ -2,12 +2,12 @@ baseURL = "https://heen.dev/"
 title = "Erik Heen"
 languageCode = "en-us"
 theme = "PaperMod"
-copyright = "© 2022"
+copyright = "© 2022 Erik Heen •"
 
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
-# buildExpired = false
+buildExpired = false
 # googleAnalytics = "UA-123-45"
 
 [minify]
@@ -22,17 +22,17 @@ theme = "PaperMod"
 copyright = "© 2022"
 relativeURLs = true
 env = "production"
-description = "A simple showcase of who I am."
+description = "Personal blog of Erik Heen. Student, UI/UX Developer, Songwriter."
 keywords = [ "Blog", "Portfolio", "PaperMod" ]
 author = "Erik Heen"
-# images = [ "<link or path of image for opengraph, twitter-cards>" ]
+images = [ "img/selfie.jpg" ]
 DateFormat = "2006 Jan 2"
 defaultTheme = "auto"
 disableThemeToggle = false
 ShowReadingTime = true
 ShowShareButtons = false
 ShowPostNavLinks = true
-ShowBreadCrumbs = false
+ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
 disableSpecial1stPost = false
 disableScrollToTop = false
@@ -56,7 +56,8 @@ tocopen = false
   [params.profileMode]
   enabled = true
   title = "Erik Heen"
-  subtitle = "Student & UI/UX Developer"
+  subtitle = "Student & Front End Developer"
+#  description = "Interested in UI / UX design semantics, video game UI & HUD design, Android, and user psychology. Songwriter, music producer, photographer, esports enthusiast, mental health advocate."
   imageUrl = "img/selfie.jpg"
   imageWidth = 240
   imageHeight = 240
@@ -64,19 +65,27 @@ tocopen = false
 
     [[params.profileMode.buttons]]
     name = "Blog"
-    url = "posts"
+    url = "blog"
+
+#    [[params.profileMode.buttons]]
+#    name = "Timeline"
+#    url = "archive"
 
     [[params.profileMode.buttons]]
     name = "Projects"
-    url = "projects"
+    url = "project"
+
+    [[params.profileMode.buttons]]
+    name = "Writeups"
+    url = "writeup"
 
 #    [[params.profileMode.buttons]]
 #    name = "Music"
-#    url = "music"
+#    url = "https://soundcloud.com/erikheen"
 
   [params.homeInfoParams]
   Title = "Erik Heen"
-  Content = "A UI/UX developer in progress"
+  Content = "Student, Songwriter, and Front-end Developer in progess. Interested in UI / UX design semantics, video game UI & HUD design, Next JS & React JS. Songwriter, music producer, photographer, esports enthusiast, mental health advocate."
 
   [[params.socialIcons]]
   name = "email"
@@ -94,13 +103,21 @@ tocopen = false
   name = "instagram"
   url = "https://www.instagram.com/eaheen/"
 
+#  [[params.socialIcons]]
+#  name = "soundcloud"
+#  url = "https://soundcloud.com/erikheen"
+
   [[params.socialIcons]]
   name = "mastodon"
   url = "https://mastodon.social/@m9ple"
   
   [[params.socialIcons]]
   name = "linkedin"
-  url = "https://www.linkedin.com/in/erik-heen-b238a8177"
+  url = "https://www.linkedin.com/in/eaheen"
+
+  [[params.socialIcons]]
+  name = "discord"
+  url = "https://discordapp.com/users/178338884113924096"
 
 #[[params.socialIcons]]
 #name = "stackoverflow"
@@ -114,10 +131,10 @@ tocopen = false
   hiddenInList = true
   hiddenInSingle = true
 
-  [params.editPost]
-  URL = "https://github.com/m9ple/blog"
-  Text = "View Source"
-  appendFilePath = true
+#  [params.editPost]
+#  URL = "https://github.com/m9ple/blog"
+#  Text = "View Source"
+#  appendFilePath = true
 
   [params.fuseOpts]
   isCaseSensitive = false
@@ -129,25 +146,40 @@ tocopen = false
   keys = [ "title", "permalink", "summary", "content" ]
 
 [[menu.main]]
-identifier = "about"
-name = "About"
-url = "/"
+identifier = "archive"
+name = "Timeline"
+url = "archive"
 weight = 10
 
 [[menu.main]]
 identifier = "blog"
 name = "Blog"
-url = "/posts"
-weight = 20
+url = "blog"
+weight = 11
+
+[[menu.main]]
+identifier = "writeup"
+name = "Writeups"
+url = "writeup"
+weight = 12
 
 [[menu.main]]
 identifier = "projects"
 name = "Projects"
-url = "/projects"
-weight = 30
+url = "project"
+weight = 13
 
 #[[menu.main]]
 #identifier = "music"
 #name = "Music"
-#url = "/music"
-#weight = 40
+#url = "music"
+#weight = 14
+
+[[menu.main]]
+identifier = "search"
+name = "Search"
+url = "search"
+weight = 30
+
+[outputs]
+home = ["HTML","RSS","JSON"]
