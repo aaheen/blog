@@ -107,6 +107,10 @@ tocopen = false
 #  name = "soundcloud"
 #  url = "https://soundcloud.com/erikheen"
 
+#  [[params.socialIcons]]
+#  name = "spotify"
+#  url = "https://open.spotify.com/user/13lckr"
+
   [[params.socialIcons]]
   name = "mastodon"
   url = "https://mastodon.social/@m9ple"
