@@ -81,7 +81,7 @@ tocopen = false
 
 #    [[params.profileMode.buttons]]
 #    name = "Music"
-#    url = "https://soundcloud.com/erikheen"
+#    url = "https://soundcloud.com/eaheen"
 
   [params.homeInfoParams]
   Title = "Erik Heen"
@@ -92,32 +92,36 @@ tocopen = false
   url = "mailto:erik@heen.dev"
 
   [[params.socialIcons]]
+  name = "kofi"
+  url = "https://ko-fi.com/eaheen"
+
+  [[params.socialIcons]]
   name = "github"
   url = "https://github.com/m9ple"
 
   [[params.socialIcons]]
   name = "twitter"
   url = "https://twitter.com/eaheen"
+  
+  [[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/eaheen"
 
   [[params.socialIcons]]
   name = "instagram"
   url = "https://www.instagram.com/eaheen/"
 
-#  [[params.socialIcons]]
-#  name = "soundcloud"
-#  url = "https://soundcloud.com/erikheen"
+  [[params.socialIcons]]
+  name = "soundcloud"
+  url = "https://soundcloud.com/eaheen"
 
 #  [[params.socialIcons]]
 #  name = "spotify"
 #  url = "https://open.spotify.com/user/13lckr"
 
-  [[params.socialIcons]]
-  name = "mastodon"
-  url = "https://mastodon.social/@m9ple"
-  
-  [[params.socialIcons]]
-  name = "linkedin"
-  url = "https://www.linkedin.com/in/eaheen"
+#  [[params.socialIcons]]
+#  name = "mastodon"
+#  url = "https://mastodon.social/@m9ple"
 
   [[params.socialIcons]]
   name = "discord"
