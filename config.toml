@@ -22,8 +22,8 @@ theme = "PaperMod"
 copyright = "© 2022"
 relativeURLs = true
 env = "production"
-description = "Personal blog of Erik Heen. Student, UI/UX Developer, Songwriter."
-keywords = [ "Blog", "Portfolio", "PaperMod" ]
+description = "Personal blog of Erik Heen. Student, music maker, nerd. BA CSci @ UMN-TC 2023."
+#keywords = [ "Blog", "Portfolio", "PaperMod" ]
 author = "Erik Heen"
 images = [ "img/selfie.jpg" ]
 DateFormat = "2006 Jan 2"
@@ -56,7 +56,7 @@ tocopen = false
   [params.profileMode]
   enabled = true
   title = "Erik Heen"
-  subtitle = "Student & Front End Developer"
+  subtitle = "BA CSci @ UMN-TC, Class of 2023"
 #  description = "Interested in UI / UX design semantics, video game UI & HUD design, Android, and user psychology. Songwriter, music producer, photographer, esports enthusiast, mental health advocate."
   imageUrl = "img/selfie.jpg"
   imageWidth = 240
@@ -81,7 +81,7 @@ tocopen = false
 
 #    [[params.profileMode.buttons]]
 #    name = "Music"
-#    url = "https://soundcloud.com/eaheen"
+#    url = "music"
 
   [params.homeInfoParams]
   Title = "Erik Heen"
@@ -92,47 +92,47 @@ tocopen = false
   url = "mailto:erik@heen.dev"
 
   [[params.socialIcons]]
-  name = "kofi"
-  url = "https://ko-fi.com/eaheen"
-
-  [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/m9ple"
-
-  [[params.socialIcons]]
-  name = "twitter"
-  url = "https://twitter.com/eaheen"
+  url = "https://github.com/eaheen"
   
   [[params.socialIcons]]
   name = "linkedin"
   url = "https://www.linkedin.com/in/eaheen"
 
-  [[params.socialIcons]]
-  name = "instagram"
-  url = "https://www.instagram.com/eaheen/"
+#  [[params.socialIcons]]
+#  name = "kofi"
+#  url = "https://ko-fi.com/eaheen"
 
   [[params.socialIcons]]
-  name = "soundcloud"
-  url = "https://soundcloud.com/eaheen"
+  name = "twitter"
+  url = "https://twitter.com/eaheen"
+
+  [[params.socialIcons]]
+  name = "instagram"
+  url = "https://www.instagram.com/eaheen"
+
+  [[params.socialIcons]]
+  name = "discord"
+  url = "https://discordapp.com/users/178338884113924096"
+
+#  [[params.socialIcons]]
+#  name = "mastodon"
+#  url = "https://mastodon.social/@m9ple"
+
+#  [[params.socialIcons]]
+#  name = "soundcloud"
+#  url = "https://soundcloud.com/eaheen"
 
 #  [[params.socialIcons]]
 #  name = "spotify"
 #  url = "https://open.spotify.com/user/13lckr"
 
 #  [[params.socialIcons]]
-#  name = "mastodon"
-#  url = "https://mastodon.social/@m9ple"
+#  name = "stackoverflow"
+#  url = "https://stackoverflow.com/users/15165192/m9ple"
 
-  [[params.socialIcons]]
-  name = "discord"
-  url = "https://discordapp.com/users/178338884113924096"
-
-#[[params.socialIcons]]
-#name = "stackoverflow"
-#url = "https://stackoverflow.com/users/15165192/m9ple"
-
-#[params.analytics.google]
-#SiteVerificationTag = "???"
+#  [params.analytics.google]
+#  SiteVerificationTag = "???"
 
   [params.cover]
   hidden = true
