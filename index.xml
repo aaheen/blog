@@ -11,25 +11,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2022 Erik Heen •</copyright>
-    <lastBuildDate>Tue, 08 Mar 2022 03:40:24 -0600</lastBuildDate><atom:link href="https://heen.dev/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>File Path Pain</title>
-      <link>https://heen.dev/blog/2022-03-08-file-path-pain/</link>
-      <pubDate>Tue, 08 Mar 2022 03:40:24 -0600</pubDate>
-      
-      <guid>https://heen.dev/blog/2022-03-08-file-path-pain/</guid>
-      <description>Hugo doesn&amp;#39;t like &amp;#34;-&amp;#34; in absURL-piped paths.</description>
-    </item>
-    
-    <item>
-      <title>First Post Using Hugo</title>
-      <link>https://heen.dev/blog/2022-03-07-first-post-using-hugo/</link>
-      <pubDate>Mon, 07 Mar 2022 22:01:53 -0600</pubDate>
-      
-      <guid>https://heen.dev/blog/2022-03-07-first-post-using-hugo/</guid>
-      <description>Filler content to test out Hugo with.</description>
-    </item>
-    
+    <lastBuildDate>Tue, 01 Mar 2022 09:12:57 -0600</lastBuildDate><atom:link href="https://heen.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Euler</title>
       <link>https://heen.dev/project/euler/</link>
@@ -55,6 +37,15 @@
       
       <guid>https://heen.dev/writeup/euler/1/</guid>
       <description>Difficulty: Easy</description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://heen.dev/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://heen.dev/blog/</guid>
+      <description>Empty (for now) There&amp;rsquo;s nothing here quite yet. Stay tuned, though!</description>
     </item>
     
     <item>
