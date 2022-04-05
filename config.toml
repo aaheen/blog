@@ -87,6 +87,12 @@ tocopen = false
   Title = "Erik Heen"
   Content = "Student, Songwriter, and Front-end Developer in progess. Interested in UI / UX design semantics, video game UI & HUD design, Next JS & React JS. Songwriter, music producer, photographer, esports enthusiast, mental health advocate."
 
+########## SOCIAL ICONS ############
+
+#  [[params.socialIcons]]
+#  name = "  "
+#  url = "  "
+
   [[params.socialIcons]]
   name = "email"
   url = "mailto:erik@heen.dev"
@@ -94,10 +100,38 @@ tocopen = false
   [[params.socialIcons]]
   name = "github"
   url = "https://github.com/eaheen"
+
+#  [[params.socialIcons]]
+#  name = "gitlab"
+#  url = "https://gitlab.com/eaheen"
+
+#  [[params.socialIcons]]
+#  name = "bitbucket"
+#  url = "https://bitbucket.org/eaheen"
+
+#  [[params.socialIcons]]
+#  name = "codepen"
+#  url = "https://codepen.io/eaheen"
+
+#  [[params.socialIcons]]
+#  name = "cryptohack"
+#  url = "https://cryptohack.org/user/eaheen/"
   
+#  [[params.socialIcons]]
+#  name = "stackoverflow"
+#  url = "https://stackoverflow.com/users/15165192/eaheen"
+
+#  [[params.socialIcons]]
+#  name = "leetcode"
+#  url = "https://leetcode.com/eaheen/"
+
   [[params.socialIcons]]
   name = "linkedin"
-  url = "https://www.linkedin.com/in/eaheen"
+  url = "https://linkedin.com/in/eaheen"
+
+#  [[params.socialIcons]]
+#  name = "hackerrank"
+#  url = "https://www.hackerrank.com/eaheen"
 
 #  [[params.socialIcons]]
 #  name = "kofi"
@@ -107,17 +141,21 @@ tocopen = false
   name = "twitter"
   url = "https://twitter.com/eaheen"
 
+#  [[params.socialIcons]]
+#  name = "reddit"
+#  url = "https://reddit.com/u/eaheen"
+
   [[params.socialIcons]]
   name = "instagram"
-  url = "https://www.instagram.com/eaheen"
+  url = "https://instagram.com/eaheen"
 
   [[params.socialIcons]]
   name = "discord"
-  url = "https://discordapp.com/users/178338884113924096"
+  url = "https://discordapp.com/users/793779247831449621"
 
 #  [[params.socialIcons]]
 #  name = "mastodon"
-#  url = "https://mastodon.social/@m9ple"
+#  url = "https://mastodon.social/@eaheen"
 
 #  [[params.socialIcons]]
 #  name = "soundcloud"
@@ -126,10 +164,6 @@ tocopen = false
 #  [[params.socialIcons]]
 #  name = "spotify"
 #  url = "https://open.spotify.com/user/13lckr"
-
-#  [[params.socialIcons]]
-#  name = "stackoverflow"
-#  url = "https://stackoverflow.com/users/15165192/m9ple"
 
 #  [params.analytics.google]
 #  SiteVerificationTag = "???"
