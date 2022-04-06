@@ -89,9 +89,9 @@ tocopen = false
 
 ########## SOCIAL ICONS ############
 
-#  [[params.socialIcons]]
-#  name = "  "
-#  url = "  "
+# [[params.socialIcons]]
+# name = "  "
+# url = "  "
 
   [[params.socialIcons]]
   name = "email"
@@ -101,49 +101,61 @@ tocopen = false
   name = "github"
   url = "https://github.com/eaheen"
 
-#  [[params.socialIcons]]
-#  name = "gitlab"
-#  url = "https://gitlab.com/eaheen"
+  # [[params.socialIcons]]
+  # name = "gitlab"
+  # url = "https://gitlab.com/eaheen"
 
-#  [[params.socialIcons]]
-#  name = "bitbucket"
-#  url = "https://bitbucket.org/eaheen"
+  # [[params.socialIcons]]
+  # name = "bitbucket"
+  # url = "https://bitbucket.org/eaheen"
 
-#  [[params.socialIcons]]
-#  name = "codepen"
-#  url = "https://codepen.io/eaheen"
+  # [[params.socialIcons]]
+  # name = "codepen"
+  # url = "https://codepen.io/eaheen"
 
-#  [[params.socialIcons]]
-#  name = "cryptohack"
-#  url = "https://cryptohack.org/user/eaheen/"
-  
-#  [[params.socialIcons]]
-#  name = "stackoverflow"
-#  url = "https://stackoverflow.com/users/15165192/eaheen"
+  # [[params.socialIcons]]
+  # name = "cryptohack"
+  # url = "https://cryptohack.org/user/eaheen/"
 
-#  [[params.socialIcons]]
-#  name = "leetcode"
-#  url = "https://leetcode.com/eaheen/"
+  # [[params.socialIcons]]
+  # name = "leetcode"
+  # url = "https://leetcode.com/eaheen/"
+
+  # [[params.socialIcons]]
+  # name = "stackoverflow"
+  # url = "https://stackoverflow.com/users/15165192/eaheen"
+
+  # [[params.socialIcons]]
+  # name = "dev"
+  # url = "https://dev.to/eaheen"
+
+  # [[params.socialIcons]]
+  # name = "reddit"
+  # url = "https://reddit.com/u/eaheen"
 
   [[params.socialIcons]]
   name = "linkedin"
   url = "https://linkedin.com/in/eaheen"
 
-#  [[params.socialIcons]]
-#  name = "hackerrank"
-#  url = "https://www.hackerrank.com/eaheen"
+  # [[params.socialIcons]]
+  # name = "hackerrank"
+  # url = "https://hackerrank.com/eaheen"
+  
+  # [[params.socialIcons]]
+  # name = "medium"
+  # url = "https://medium.com/@eaheen"
 
-#  [[params.socialIcons]]
-#  name = "kofi"
-#  url = "https://ko-fi.com/eaheen"
+  # [[params.socialIcons]]
+  # name = "kofi"
+  # url = "https://ko-fi.com/eaheen"
 
   [[params.socialIcons]]
   name = "twitter"
   url = "https://twitter.com/eaheen"
 
-#  [[params.socialIcons]]
-#  name = "reddit"
-#  url = "https://reddit.com/u/eaheen"
+  # [[params.socialIcons]]
+  # name = "mastodon"
+  # url = "https://mastodon.social/@eaheen"
 
   [[params.socialIcons]]
   name = "instagram"
@@ -153,20 +165,20 @@ tocopen = false
   name = "discord"
   url = "https://discordapp.com/users/793779247831449621"
 
-#  [[params.socialIcons]]
-#  name = "mastodon"
-#  url = "https://mastodon.social/@eaheen"
+  # [[params.socialIcons]]
+  # name = "soundcloud"
+  # url = "https://soundcloud.com/eaheen"
 
-#  [[params.socialIcons]]
-#  name = "soundcloud"
-#  url = "https://soundcloud.com/eaheen"
+  # [[params.socialIcons]]
+  # name = "spotify"
+  # url = "https://open.spotify.com/user/13lckr"
 
-#  [[params.socialIcons]]
-#  name = "spotify"
-#  url = "https://open.spotify.com/user/13lckr"
+  # [[params.socialIcons]]
+  # name = "lastfm"
+  # url = "https://last.fm/user/eaheen"
 
-#  [params.analytics.google]
-#  SiteVerificationTag = "???"
+  # [params.analytics.google]
+  # SiteVerificationTag = "???"
 
   [params.cover]
   hidden = true
