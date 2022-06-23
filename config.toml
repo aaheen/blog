@@ -63,21 +63,21 @@ tocopen = false
   imageHeight = 240
   imageTitle = "Selfie"
 
-    [[params.profileMode.buttons]]
-    name = "Blog"
-    url = "blog"
+#    [[params.profileMode.buttons]]
+#    name = "Blog"
+#    url = "blog"
 
 #    [[params.profileMode.buttons]]
 #    name = "Timeline"
 #    url = "archive"
 
-    [[params.profileMode.buttons]]
-    name = "Projects"
-    url = "project"
+#    [[params.profileMode.buttons]]
+#    name = "Projects"
+#    url = "project"
 
-    [[params.profileMode.buttons]]
-    name = "Writeups"
-    url = "writeup"
+#    [[params.profileMode.buttons]]
+#    name = "Writeups"
+#    url = "writeup"
 
 #    [[params.profileMode.buttons]]
 #    name = "Music"
@@ -85,7 +85,7 @@ tocopen = false
 
   [params.homeInfoParams]
   Title = "Erik Heen"
-  Content = "Student, Songwriter, and Front-end Developer in progess. Interested in UI / UX design semantics, video game UI & HUD design, Next JS & React JS. Songwriter, music producer, photographer, esports enthusiast, mental health advocate."
+  Content = ""
 
 ########## SOCIAL ICONS ############
 
@@ -199,11 +199,11 @@ tocopen = false
   minMatchCharLength = 0
   keys = [ "title", "permalink", "summary", "content" ]
 
-[[menu.main]]
-identifier = "archive"
-name = "Timeline"
-url = "archive"
-weight = 10
+#[[menu.main]]
+#identifier = "archive"
+#name = "Timeline"
+#url = "archive"
+#weight = 10
 
 [[menu.main]]
 identifier = "blog"
@@ -211,11 +211,11 @@ name = "Blog"
 url = "blog"
 weight = 11
 
-[[menu.main]]
-identifier = "writeup"
-name = "Writeups"
-url = "writeup"
-weight = 12
+#[[menu.main]]
+#identifier = "writeup"
+#name = "Writeups"
+#url = "writeup"
+#weight = 12
 
 [[menu.main]]
 identifier = "projects"
@@ -229,11 +229,11 @@ weight = 13
 #url = "music"
 #weight = 14
 
-[[menu.main]]
-identifier = "search"
-name = "Search"
-url = "search"
-weight = 30
+#[[menu.main]]
+#identifier = "search"
+#name = "Search"
+#url = "search"
+#weight = 30
 
 [outputs]
 home = ["HTML","RSS","JSON"]
