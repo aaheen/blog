@@ -149,21 +149,21 @@ tocopen = false
   # name = "kofi"
   # url = "https://ko-fi.com/eaheen"
 
+  # [[params.socialIcons]]
+  # name = "twitter"
+  # url = "https://twitter.com/eaheen"
+
   [[params.socialIcons]]
-  name = "twitter"
-  url = "https://twitter.com/eaheen"
+  name = "mastodon"
+  url = "https://mastodon.social/@eaheen"
 
   # [[params.socialIcons]]
-  # name = "mastodon"
-  # url = "https://mastodon.social/@eaheen"
+  # name = "instagram"
+  # url = "https://instagram.com/eaheen"
 
-  [[params.socialIcons]]
-  name = "instagram"
-  url = "https://instagram.com/eaheen"
-
-  [[params.socialIcons]]
-  name = "discord"
-  url = "https://discordapp.com/users/793779247831449621"
+  # [[params.socialIcons]]
+  # name = "discord"
+  # url = "https://discordapp.com/users/793779247831449621"
 
   # [[params.socialIcons]]
   # name = "soundcloud"
@@ -173,9 +173,9 @@ tocopen = false
   # name = "spotify"
   # url = "https://open.spotify.com/user/13lckr"
 
-  # [[params.socialIcons]]
-  # name = "lastfm"
-  # url = "https://last.fm/user/eaheen"
+  [[params.socialIcons]]
+  name = "lastfm"
+  url = "https://last.fm/user/eaheen"
 
   # [params.analytics.google]
   # SiteVerificationTag = "???"
