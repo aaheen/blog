@@ -155,11 +155,11 @@ tocopen = false
 
   [[params.socialIcons]]
   name = "mastodon"
-  url = "https://mastodon.social/@eaheen"
+  url = "https://fosstodon.org/@eaheen"
 
-  # [[params.socialIcons]]
-  # name = "instagram"
-  # url = "https://instagram.com/eaheen"
+ [[params.socialIcons]]
+ name = "instagram"
+ url = "https://instagram.com/eaheen"
 
   # [[params.socialIcons]]
   # name = "discord"
