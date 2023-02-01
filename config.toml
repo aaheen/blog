@@ -155,7 +155,7 @@ tocopen = false
 
   [[params.socialIcons]]
   name = "mastodon"
-  url = "https://fosstodon.org/@eaheen"
+  url = "https://hachyderm.io/@eaheen"
 
  [[params.socialIcons]]
  name = "instagram"
