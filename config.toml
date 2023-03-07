@@ -19,7 +19,7 @@ baseURL = "https://heen.dev/"
 title = "Erik Heen"
 languageCode = "en-us"
 theme = "PaperMod"
-copyright = "© 2022"
+copyright = "© 2023"
 relativeURLs = true
 env = "production"
 description = "Personal blog of Erik Heen. Student, music maker, nerd. BA CSci @ UMN-TC 2023."
@@ -208,7 +208,7 @@ tocopen = false
 [[menu.main]]
 identifier = "blog"
 name = "Blog"
-url = "blog"
+url = "post"
 weight = 11
 
 #[[menu.main]]

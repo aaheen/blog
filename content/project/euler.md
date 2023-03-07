@@ -5,13 +5,16 @@ author: "Erik Heen"
 tags: ["cli","euler","math"]
 description: "My Project Euler solutions & a CLI to access them." 
 draft: false
-canonicalURL: "https://heen.dev/euler"
+canonicalURL: "https://heen.dev/project/euler"
 cover:
     image: "/img/euler.png"
     alt: "Portrait of Leonhard Euler"
     caption:
     relative: false
     hidden: true
+editPost:
+    URL: "https://git.heen.dev/euler"
+    Text: "View Source on GitHub"
 ---
 
 Contained in [this GitHub repository](https://euler.heen.dev/) are all of my solutions to Project Euler problems, and a simple CLI to run them. The rest of this post is copied straight from the repo's README.
