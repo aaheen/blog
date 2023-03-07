@@ -25,11 +25,12 @@ Just like any other machine learning model, Bill Nom should not be perceived as 
 
 ## Structure
 
-- The model at the heart of it was produced with the [T5 model from Google](https://huggingface.co/google/flan-t5-small) imported from [Huggingface](https://huggingface.co/), fine-tuned on legislative language from documents obtained from the [MN Revisor's Office website](https://www.revisor.mn.gov/).
-- It was trained in a Jupyter notebook, using PyTorch with Pandas dataframes, which parsed
-- Our training data was obtained by scraping at least a thousand documents from the MN Revisor's Office (linked above)
+- The model at the heart of it was produced with the [T5 model from Google](https://huggingface.co/google/flan-t5-small) imported from [Huggingface](https://huggingface.co/)
+- Our training data was obtained by scraping around a thousand documents from the [MN Revisor's Office website](https://www.revisor.mn.gov/), using [Beautiful Soup 4 (BS4)](https://beautiful-soup-4.readthedocs.io/en/latest/#).
+- We used Pandas dataframes to process the raw JSON files produced by BS4.
+- It was trained in a Jupyter notebook with PyTorch, which took approximately three hours to complete running on an Nvidia 3060 12GB.
 - Front-end built using [Dash by Plotly](https://dash.plotly.com/). 
-- Back-end API is in Python.
+- API to access the back-end is just Python.
 
 ## Why
 
