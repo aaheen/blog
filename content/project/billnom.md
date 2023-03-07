@@ -4,7 +4,7 @@ date: 2023-03-06T15:14:18-06:00
 author: "Erik Heen"
 tags: ["ai","ml","nlp"]
 description: "A lightweight NLP model to summarize legislative documents." 
-draft: true
+draft: false
 canonicalURL: "https://heen.dev/project/billnom"
 cover:
     image: "/img/BillNom.png"
