@@ -2,10 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://heen.dev/tags/cli/</loc>
-    <lastmod>2022-03-01T09:12:57-06:00</lastmod>
+    <loc>https://heen.dev/tags/ai/</loc>
+    <lastmod>2023-03-06T15:14:18-06:00</lastmod>
+  </url><url>
+    <loc>https://heen.dev/project/billnom/</loc>
+    <lastmod>2023-03-06T15:14:18-06:00</lastmod>
   </url><url>
     <loc>https://heen.dev/</loc>
+    <lastmod>2023-03-06T15:14:18-06:00</lastmod>
+  </url><url>
+    <loc>https://heen.dev/tags/ml/</loc>
+    <lastmod>2023-03-06T15:14:18-06:00</lastmod>
+  </url><url>
+    <loc>https://heen.dev/tags/nlp/</loc>
+    <lastmod>2023-03-06T15:14:18-06:00</lastmod>
+  </url><url>
+    <loc>https://heen.dev/project/</loc>
+    <lastmod>2023-03-06T15:14:18-06:00</lastmod>
+  </url><url>
+    <loc>https://heen.dev/tags/</loc>
+    <lastmod>2023-03-06T15:14:18-06:00</lastmod>
+  </url><url>
+    <loc>https://heen.dev/tags/cli/</loc>
     <lastmod>2022-03-01T09:12:57-06:00</lastmod>
   </url><url>
     <loc>https://heen.dev/tags/euler/</loc>
@@ -15,12 +33,6 @@
     <lastmod>2022-03-01T09:12:57-06:00</lastmod>
   </url><url>
     <loc>https://heen.dev/tags/math/</loc>
-    <lastmod>2022-03-01T09:12:57-06:00</lastmod>
-  </url><url>
-    <loc>https://heen.dev/project/</loc>
-    <lastmod>2022-03-01T09:12:57-06:00</lastmod>
-  </url><url>
-    <loc>https://heen.dev/tags/</loc>
     <lastmod>2022-03-01T09:12:57-06:00</lastmod>
   </url><url>
     <loc>https://heen.dev/tags/easy/</loc>
