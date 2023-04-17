@@ -153,13 +153,13 @@ tocopen = false
   # name = "twitter"
   # url = "https://twitter.com/eaheen"
 
-  [[params.socialIcons]]
-  name = "mastodon"
-  url = "https://hachyderm.io/@eaheen"
+  # [[params.socialIcons]]
+  # name = "mastodon"
+  # url = "https://hachyderm.io/@eaheen"
 
- [[params.socialIcons]]
- name = "instagram"
- url = "https://instagram.com/eaheen"
+  # [[params.socialIcons]]
+  # name = "instagram"
+  # url = "https://instagram.com/eaheen"
 
   # [[params.socialIcons]]
   # name = "discord"
@@ -172,6 +172,10 @@ tocopen = false
   # [[params.socialIcons]]
   # name = "spotify"
   # url = "https://open.spotify.com/user/13lckr"
+
+  [[params.socialIcons]]
+  name = "signal"
+  url = "signal"
 
   [[params.socialIcons]]
   name = "lastfm"
