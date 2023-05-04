@@ -56,12 +56,12 @@ tocopen = false
   [params.profileMode]
   enabled = true
   title = "Erik Heen"
-  subtitle = "BA CSci @ UMN-TC, Class of 2023"
-#  description = "Interested in UI / UX design semantics, video game UI & HUD design, Android, and user psychology. Songwriter, music producer, photographer, esports enthusiast, mental health advocate."
-  imageUrl = "img/selfie.jpg"
+  subtitle = ""
+  description = "BA CSci @ UMN-TC, Class of 2023"
+  imageUrl = "img/griggs.jpg"
   imageWidth = 240
   imageHeight = 240
-  imageTitle = "Selfie"
+  imageTitle = "Something Comforting, Griggs"
 
 #    [[params.profileMode.buttons]]
 #    name = "Blog"
@@ -76,8 +76,8 @@ tocopen = false
 #    url = "project"
 
 #    [[params.profileMode.buttons]]
-#    name = "Writeups"
-#    url = "writeup"
+#    name = "Writings"
+#    url = "writing"
 
 #    [[params.profileMode.buttons]]
 #    name = "Music"
