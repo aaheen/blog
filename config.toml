@@ -212,7 +212,7 @@ tocopen = false
 [[menu.main]]
 identifier = "resume"
 name = "Resume"
-url = "resume"
+url = "resume.pdf"
 weight = 10
 
 [[menu.main]]
