@@ -190,7 +190,7 @@ tocopen = false
   hiddenInSingle = true
 
 #  [params.editPost]
-#  URL = "https://github.com/m9ple/blog"
+#  URL = "https://github.com/eaheen/blog"
 #  Text = "View Source"
 #  appendFilePath = true
 
@@ -212,7 +212,7 @@ tocopen = false
 [[menu.main]]
 identifier = "resume"
 name = "Resume"
-url = "resume.pdf"
+url = "resume"
 weight = 10
 
 [[menu.main]]
