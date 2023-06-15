@@ -207,37 +207,43 @@ tocopen = false
 #identifier = "archive"
 #name = "Timeline"
 #url = "archive"
-#weight = 10
+#weight = 8
+
+[[menu.main]]
+identifier = "resume"
+name = "Resume"
+url = "resume.pdf"
+weight = 10
 
 [[menu.main]]
 identifier = "blog"
 name = "Blog"
 url = "post"
-weight = 11
+weight = 12
 
 #[[menu.main]]
 #identifier = "writeup"
 #name = "Writeups"
 #url = "writeup"
-#weight = 12
+#weight = 16
 
 [[menu.main]]
 identifier = "projects"
 name = "Projects"
 url = "project"
-weight = 13
+weight = 20
 
 #[[menu.main]]
 #identifier = "music"
 #name = "Music"
 #url = "music"
-#weight = 14
+#weight = 24
 
 #[[menu.main]]
 #identifier = "search"
 #name = "Search"
 #url = "search"
-#weight = 30
+#weight = 28
 
 [outputs]
 home = ["HTML","RSS","JSON"]
