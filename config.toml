@@ -215,11 +215,11 @@ name = "Resume"
 url = "resume.pdf"
 weight = 10
 
-[[menu.main]]
-identifier = "blog"
-name = "Blog"
-url = "post"
-weight = 12
+#[[menu.main]]
+#identifier = "blog"
+#name = "Blog"
+#url = "post"
+#weight = 12
 
 #[[menu.main]]
 #identifier = "writeup"
