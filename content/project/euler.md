@@ -4,7 +4,7 @@ date: 2022-03-01T09:12:57-06:00
 author: "Erik Heen"
 tags: ["cli","euler","math"]
 description: "My Project Euler solutions & a CLI to access them." 
-draft: false
+draft: true
 canonicalURL: "https://heen.dev/project/euler"
 cover:
     image: "/img/euler.png"
