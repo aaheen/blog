@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2022 Erik Heen •</copyright>
+    <copyright>© 2023 Erik Heen •</copyright>
     <lastBuildDate>Mon, 06 Mar 2023 15:14:18 -0600</lastBuildDate><atom:link href="https://heen.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bill Nom</title>
@@ -20,15 +20,6 @@
       
       <guid>https://heen.dev/project/billnom/</guid>
       <description>A lightweight NLP model to summarize legislative documents.</description>
-    </item>
-    
-    <item>
-      <title>Euler</title>
-      <link>https://heen.dev/project/euler/</link>
-      <pubDate>Tue, 01 Mar 2022 09:12:57 -0600</pubDate>
-      
-      <guid>https://heen.dev/project/euler/</guid>
-      <description>My Project Euler solutions &amp;amp; a CLI to access them.</description>
     </item>
     
     <item>

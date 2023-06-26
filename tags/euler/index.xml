@@ -11,17 +11,8 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2022 Erik Heen •</copyright>
-    <lastBuildDate>Tue, 01 Mar 2022 09:12:57 -0600</lastBuildDate><atom:link href="https://heen.dev/tags/euler/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Euler</title>
-      <link>https://heen.dev/project/euler/</link>
-      <pubDate>Tue, 01 Mar 2022 09:12:57 -0600</pubDate>
-      
-      <guid>https://heen.dev/project/euler/</guid>
-      <description>My Project Euler solutions &amp;amp; a CLI to access them.</description>
-    </item>
-    
+    <copyright>© 2023 Erik Heen •</copyright>
+    <lastBuildDate>Thu, 24 Feb 2022 15:13:22 -0600</lastBuildDate><atom:link href="https://heen.dev/tags/euler/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Even Fibonnacci Numbers</title>
       <link>https://heen.dev/writeup/euler/2/</link>
