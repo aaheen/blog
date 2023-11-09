@@ -122,10 +122,6 @@ tocopen = false
   # url = "https://leetcode.com/aaheen/"
 
   # [[params.socialIcons]]
-  # name = "stackoverflow"
-  # url = "https://stackoverflow.com/users/15165192/eaheen"
-
-  # [[params.socialIcons]]
   # name = "dev"
   # url = "https://dev.to/eaheen"
 
