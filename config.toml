@@ -125,10 +125,6 @@ tocopen = false
   # name = "dev"
   # url = "https://dev.to/eaheen"
 
-  # [[params.socialIcons]]
-  # name = "reddit"
-  # url = "https://reddit.com/u/eaheen"
-
   [[params.socialIcons]]
   name = "linkedin"
   url = "https://linkedin.com/in/aaheen"
