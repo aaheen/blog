@@ -2,7 +2,7 @@
 layout: post
 title: "Minnehack 2023"
 date: 2023-03-06T17:35:03-06:00
-author: "Erik Heen"
+author: "August Heen"
 tags: [""]
 description: "My first hackathon experience" 
 draft: true
@@ -14,7 +14,7 @@ cover:
     relative: false
     hidden: true
 editPost:
-    URL: "https://git.heen.dev/blog"
+    URL: "https://github.com/aaheen/blog"
     Text: "View Source on GitHub"
 ---
 

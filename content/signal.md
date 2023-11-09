@@ -1,6 +1,6 @@
 ---
 title: "Signal"
-author: "Erik Heen"
+author: "August Heen"
 tags: [""]
 description: ""
 canonicalURL: "https://heen.dev/signal"
@@ -14,4 +14,4 @@ cover:
 
 ### Available upon request.
 
-Feel free to [send me an email.](mailto:erik@heen.dev)
+Feel free to [send me an email.](mailto:august@heen.dev)

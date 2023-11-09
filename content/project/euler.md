@@ -1,7 +1,7 @@
 ---
 title: "Euler"
 date: 2022-03-01T09:12:57-06:00
-author: "Erik Heen"
+author: "August Heen"
 tags: ["cli","euler","math"]
 description: "My Project Euler solutions & a CLI to access them." 
 draft: true
@@ -13,11 +13,11 @@ cover:
     relative: false
     hidden: true
 editPost:
-    URL: "https://git.heen.dev/euler"
+    URL: "https://github.com/aaheen/euler"
     Text: "View Source on GitHub"
 ---
 
-Contained in [this GitHub repository](https://euler.heen.dev/) are all of my solutions to Project Euler problems, and a simple CLI to run them. The rest of this post is copied straight from the repo's README.
+Contained in [this GitHub repository](https://github.com/aaheen/euler) are all of my solutions to Project Euler problems, and a simple CLI to run them. The rest of this post is copied straight from the repo's README.
 
 I have tried to generalize these solutions somewhat, so they can be repurposed later. Each subdirectory of [`ans`](ans) is numbered according to the problem it solves on [Project Euler](https://projecteuler.net). Presently, I have only a few problems solved. If in the future this number grows, I will most likely fork this repository and make it private, leaving only the first 100 open for outside examination.
 

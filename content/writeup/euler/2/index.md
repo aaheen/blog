@@ -1,7 +1,7 @@
 ---
 title: "Even Fibonnacci Numbers"
 date: 2022-02-24T15:13:22-06:00
-author: "Erik Heen"
+author: "August Heen"
 tags: ["euler","math","go","easy"]
 description: "Difficulty: Easy" 
 draft: false

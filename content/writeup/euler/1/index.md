@@ -1,7 +1,7 @@
 ---
 title: "Multiples of 3 or 5"
 date: 2022-02-24T14:28:09-06:00
-author: "Erik Heen"
+author: "August Heen"
 tags: ["euler","math","go","easy"]
 description: "Difficulty: Easy" 
 draft: false

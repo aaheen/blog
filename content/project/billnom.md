@@ -1,7 +1,7 @@
 ---
 title: "Bill Nom"
 date: 2023-03-06T15:14:18-06:00
-author: "Erik Heen"
+author: "August Heen"
 tags: ["ai","ml","nlp"]
 description: "A lightweight NLP model to summarize legislative documents." 
 draft: false
@@ -13,7 +13,7 @@ cover:
     relative: false
     hidden: true
 editPost:
-    URL: "https://git.heen.dev/billnom"
+    URL: "https://github.com/aaheen/billnom"
     Text: "View Source on GitHub"
 ---
 
