@@ -1,8 +1,8 @@
 baseURL = "https://heen.dev/"
-title = "Erik Heen"
+title = "August Heen"
 languageCode = "en-us"
 theme = "PaperMod"
-copyright = "© 2023 Erik Heen •"
+copyright = "© 2023 August Heen •"
 
 enableRobotsTXT = true
 buildDrafts = false
@@ -16,15 +16,15 @@ minifyOutput = true
 
 [params]
 baseURL = "https://heen.dev/"
-title = "Erik Heen"
+title = "August Heen"
 languageCode = "en-us"
 theme = "PaperMod"
 copyright = "© 2023"
 relativeURLs = true
 env = "production"
-description = "Personal blog of Erik Heen. Software engineer, music maker, nerd. BA CSci @ UMN-TC 2023."
+description = "Personal blog of August Heen. Software engineer, music maker, nerd. BA CSci @ UMN-TC 2023."
 #keywords = [ "Blog", "Portfolio", "PaperMod" ]
-author = "Erik Heen"
+author = "August Heen"
 images = [ "img/selfie.jpg" ]
 DateFormat = "2006 Jan 2"
 defaultTheme = "auto"
@@ -49,13 +49,13 @@ tocopen = false
   apple_touch_icon = "ico/appleTouchIcon.png"
 
   [params.label]
-  text = "Erik Heen"
+  text = "August Heen"
   icon = "ico/appleTouchIcon.png"
   iconHeight = 35
 
   [params.profileMode]
   enabled = true
-  title = "Erik Heen"
+  title = "August Heen"
   subtitle = ""
   description = "Software engineer, music maker, nerd."
   imageUrl = "img/griggs.jpg"
@@ -95,7 +95,7 @@ tocopen = false
 
   [[params.socialIcons]]
   name = "email"
-  url = "mailto:erik@heen.dev"
+  url = "mailto:August Heen<august@heen.dev>"
 
   [[params.socialIcons]]
   name = "github"
