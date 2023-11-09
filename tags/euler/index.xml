@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>euler on Erik Heen</title>
+    <title>euler on August Heen</title>
     <link>https://heen.dev/tags/euler/</link>
-    <description>Recent content in euler on Erik Heen</description>
+    <description>Recent content in euler on August Heen</description>
     <image>
+      <title>August Heen</title>
       <url>https://heen.dev/img/selfie.jpg</url>
       <link>https://heen.dev/img/selfie.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2023 Erik Heen •</copyright>
+    <copyright>© 2023 August Heen •</copyright>
     <lastBuildDate>Thu, 24 Feb 2022 15:13:22 -0600</lastBuildDate><atom:link href="https://heen.dev/tags/euler/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Even Fibonnacci Numbers</title>
