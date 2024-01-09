@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on August Heen</title>
     <link>https://heen.dev/project/</link>
@@ -12,15 +12,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2023 August Heen •</copyright>
-    <lastBuildDate>Mon, 06 Mar 2023 15:14:18 -0600</lastBuildDate><atom:link href="https://heen.dev/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Mar 2023 15:14:18 -0600</lastBuildDate>
+    <atom:link href="https://heen.dev/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bill Nom</title>
       <link>https://heen.dev/project/billnom/</link>
       <pubDate>Mon, 06 Mar 2023 15:14:18 -0600</pubDate>
-      
       <guid>https://heen.dev/project/billnom/</guid>
       <description>A lightweight NLP model to summarize legislative documents.</description>
     </item>
-    
   </channel>
 </rss>
