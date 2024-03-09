@@ -1,0 +1,105 @@
+/* ======== Noto Serif Simplified Chinese ======== */
+/* noto-serif-sc */
+@font-face {
+	font-family: Noto Serif SC;
+	font-style: normal;
+	font-weight: 400;
+	src: local("Noto Serif SC"), local("NotoSerifSC-Regular"), url(noto-serif-sc.woff2) format("woff2");
+}
+/* noto-serif-sc-semibold */
+@font-face {
+	font-family: Noto Serif SC;
+	font-style: normal;
+	font-weight: 400;
+	src: local("Noto Serif SC SemiBold"), local("NotoSerifSC-SemiBold"), url(noto-serif-sc-semibold.woff2) format("woff2");
+}
+/* noto-serif-sc-bold */
+@font-face {
+	font-family: Noto Serif SC;
+	font-style: normal;
+	font-weight: 700;
+	src: local("Noto Serif SC Bold"), local("NotoSerifSC-Bold"), url(noto-serif-sc-bold.woff2) format("woff2");
+}
+
+
+/* ======== Noto Serif Traditional Chinese ======== */
+/* noto-serif-tc */
+@font-face {
+	font-family: Noto Serif TC;
+	font-style: normal;
+	font-weight: 400;
+	src: local("Noto Serif TC"), local("NotoSerifTC-Regular"), url(noto-serif-tc.woff2) format("woff2");
+}
+/* noto-serif-tc-semibold */
+@font-face {
+	font-family: Noto Serif TC;
+	font-style: normal;
+	font-weight: 400;
+	src: local("Noto Serif TC SemiBold"), local("NotoSerifTC-SemiBold"), url(noto-serif-tc-semibold.woff2) format("woff2");
+}
+/* noto-serif-tc-bold */
+@font-face {
+	font-family: Noto Serif TC;
+	font-style: normal;
+	font-weight: 700;
+	src: local("Noto Serif TC Bold"), local("NotoSerifTC-Bold"), url(noto-serif-tc-bold.woff2) format("woff2");
+}
+
+
+/* ======== Noto Serif Hong Kong ======== */
+/* noto-serif-hk */
+@font-face {
+	font-family: Noto Serif HK;
+	font-style: normal;
+	font-weight: 400;
+	src: local("Noto Serif HK"), local("NotoSerifHK-ExtraLight"), url(noto-serif-hk.woff2) format("woff2");
+}
+
+
+/* ======== Noto Serif Japanese ======== */
+/* noto-serif-jp-bold */
+@font-face {
+	font-family: Noto Serif JP;
+	font-style: normal;
+	font-weight: 700;
+	src: local("Noto Serif JP Bold"), local("NotoSerifJP-Bold"), url(noto-serif-jp-bold.woff2) format("woff2");
+}
+/* noto-serif-jp */
+@font-face {
+	font-family: Noto Serif JP;
+	font-style: normal;
+	font-weight: 400;
+	src: local("Noto Serif JP"), local("NotoSerifJP-Regular"), url(noto-serif-jp.woff2) format("woff2");
+}
+/* noto-serif-jp-semibold */
+@font-face {
+	font-family: Noto Serif JP;
+	font-style: normal;
+	font-weight: 400;
+	src: local("Noto Serif JP SemiBold"), local("NotoSerifJP-SemiBold"), url(noto-serif-jp-semibold.woff2) format("woff2");
+}
+
+
+/* ======== Noto Serif Korean ======== */
+/* noto-serif-kr-bold */
+@font-face {
+	font-family: Noto Serif KR;
+	font-style: normal;
+	font-weight: 700;
+	src: local("Noto Serif KR Bold"), local("NotoSerifKR-Bold"), url(noto-serif-kr-bold.woff2) format("woff2");
+}
+/* noto-serif-kr */
+@font-face {
+	font-family: Noto Serif KR;
+	font-style: normal;
+	font-weight: 400;
+	src: local("Noto Serif KR"), local("NotoSerifKR-Regular"), url(noto-serif-kr.woff2) format("woff2");
+}
+/* noto-serif-kr-semibold */
+@font-face {
+	font-family: Noto Serif KR;
+	font-style: normal;
+	font-weight: 400;
+	src: local("Noto Serif KR SemiBold"), local("NotoSerifKR-SemiBold"), url(noto-serif-kr-semibold.woff2) format("woff2");
+}
+
