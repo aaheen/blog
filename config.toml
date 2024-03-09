@@ -2,7 +2,7 @@ baseURL = "https://heen.dev/"
 title = "August Heen"
 languageCode = "en-us"
 theme = "PaperMod"
-copyright = "© 2023 August Heen •"
+copyright = "© 2024 August Heen •"
 
 enableRobotsTXT = true
 buildDrafts = false
@@ -19,7 +19,7 @@ baseURL = "https://heen.dev/"
 title = "August Heen"
 languageCode = "en-us"
 theme = "PaperMod"
-copyright = "© 2023"
+copyright = "© 2024"
 relativeURLs = true
 env = "production"
 description = "Personal blog of August Heen. Software engineer, music maker, nerd. BA CSci @ UMN-TC 2023."
