@@ -10,6 +10,8 @@ buildFuture = false
 buildExpired = false
 # googleAnalytics = "UA-123-45"
 
+custom_css = ["css/main.css"]
+
 [minify]
 disableXML = true
 minifyOutput = true
