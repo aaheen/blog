@@ -12,14 +12,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2024 August Heen •</copyright>
-    <lastBuildDate>Mon, 06 Mar 2023 15:14:18 -0600</lastBuildDate>
-    <atom:link href="https://heen.dev/tags/ml/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Mar 2023 15:14:18 -0600</lastBuildDate><atom:link href="https://heen.dev/tags/ml/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bill Nom</title>
       <link>https://heen.dev/project/billnom/</link>
       <pubDate>Mon, 06 Mar 2023 15:14:18 -0600</pubDate>
+      
       <guid>https://heen.dev/project/billnom/</guid>
       <description>A lightweight NLP model to summarize legislative documents.</description>
     </item>
+    
   </channel>
 </rss>
