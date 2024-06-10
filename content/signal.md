@@ -14,4 +14,4 @@ cover:
 
 ### Available upon request.
 
-Feel free to [send me an email.](mailto:august@heen.dev)
+Feel free to [send me an email.](mailto:35fjatorl@mozmail.com)
