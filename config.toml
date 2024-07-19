@@ -59,7 +59,7 @@ tocopen = false
   enabled = true
   title = "August Heen"
   subtitle = ""
-  description = "Software engineer, music maker, nerd."
+  description = "Engineer, music maker, nerd."
   imageUrl = "img/griggs.jpg"
   imageWidth = 240
   imageHeight = 240
@@ -134,7 +134,7 @@ tocopen = false
   # [[params.socialIcons]]
   # name = "hackerrank"
   # url = "https://hackerrank.com/eaheen"
-  
+
   # [[params.socialIcons]]
   # name = "medium"
   # url = "https://medium.com/@eaheen"
