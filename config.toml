@@ -99,9 +99,9 @@ tocopen = false
   name = "email"
   url = "mailto:August Heen<35fjatorl@mozmail.com>"
 
-  [[params.socialIcons]]
-  name = "github"
-  url = "https://github.com/aaheen"
+  # [[params.socialIcons]]
+  # name = "github"
+  # url = "https://github.com/aaheen"
 
   # [[params.socialIcons]]
   # name = "gitlab"
@@ -213,11 +213,11 @@ weight = 10
 #url = "writeup"
 #weight = 16
 
-[[menu.main]]
-identifier = "projects"
-name = "Projects"
-url = "project"
-weight = 20
+#[[menu.main]]
+#identifier = "projects"
+#name = "Projects"
+#url = "project"
+#weight = 20
 
 #[[menu.main]]
 #identifier = "music"
