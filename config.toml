@@ -97,7 +97,7 @@ tocopen = false
 
   [[params.socialIcons]]
   name = "email"
-  url = "mailto:August Heen<35fjatorl@mozmail.com>"
+  url = "mailto:<35fjatorl@mozmail.com>"
 
   # [[params.socialIcons]]
   # name = "github"
