@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Easy on August Heen</title>
+    <link>http://localhost:1313/tags/easy/</link>
+    <description>Recent content in Easy on August Heen</description>
+    <image>
+      <title>August Heen</title>
+      <url>http://localhost:1313/img/selfie.jpg</url>
+      <link>http://localhost:1313/img/selfie.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2024 August Heen •</copyright>
+    <lastBuildDate>Thu, 24 Feb 2022 15:13:22 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/easy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Even Fibonnacci Numbers</title>
+      <link>http://localhost:1313/writeup/euler/2/</link>
+      <pubDate>Thu, 24 Feb 2022 15:13:22 -0600</pubDate>
+      
+      <guid>http://localhost:1313/writeup/euler/2/</guid>
+      <description>Difficulty: Easy</description>
+    </item>
+    
+    <item>
+      <title>Multiples of 3 or 5</title>
+      <link>http://localhost:1313/writeup/euler/1/</link>
+      <pubDate>Thu, 24 Feb 2022 14:28:09 -0600</pubDate>
+      
+      <guid>http://localhost:1313/writeup/euler/1/</guid>
+      <description>Difficulty: Easy</description>
+    </item>
+    
+  </channel>
+</rss>
